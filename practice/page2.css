@@ -1,0 +1,93 @@
+body {
+  background-color: grey;
+  background-image: url('http://img.wallpaperfolder.com/f/4285246545F5/adventure-time-cartoon-16321.jpg');
+
+}
+.container {
+  min-height: 100vh;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+html {
+  height: 200vh;
+  width: auto;
+}
+nav{
+  background-color: black;
+  height: 200px;
+
+}
+
+.header {
+  background-color: none;
+  text-align: center;
+}
+
+.Aside {
+  display: flex;
+  flex-direction: row
+
+}
+.Pictures {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.Picture {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}
+
+.Picture1 {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.Picture2 {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.Picture3 {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.Picture4 {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+
+}
+
+.Picture5 {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.Picture6 {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  align-items: center;
+  background-color: none;
+  width: 1000px;
+
+
+}

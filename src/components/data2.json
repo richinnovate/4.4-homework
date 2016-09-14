@@ -1,0 +1,184 @@
+{
+  "galleries": [
+    {
+      "title": "Finn and Jake",
+      "thumbnailURL": "http://fc03.deviantart.net/fs71/i/2012/130/8/3/finn_and_jake_in_shock_by_roperseid-d4z6yb4.jpg",
+      "photo": [
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        }
+      ]
+    },
+    {
+      "title": "Princesses",
+      "thumbnailURL": "http://images3.wikia.nocookie.net/__cb20120218194104/adventuretimewithfinnandjake/images/b/bc/Adventure-time-princesses-1.jpg",
+      "photo": [
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        }
+      ]
+    },
+    {
+      "title": "Villains",
+      "thumbnailURL": "https://farm8.staticflickr.com/7257/8153632535_f9c96f6576_z.jpg",
+      "photo": [
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        }
+      ]
+    },
+    {
+      "title": "Candy People",
+      "thumbnailURL": "http://finnadventures.weebly.com/uploads/1/8/6/8/18684638/7183501.jpg?388",
+      "photo": [
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        }
+      ]
+    },
+    {
+      "title": "Beemo",
+      "thumbnailURL": "http://vignette1.wikia.nocookie.net/adventuretimewithfinnandjake/images/1/18/S4e14_BMO_with_board.png/revision/latest?cb=20131027193219",
+      "photo": [
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        }
+      ]
+    },
+    {
+      "title": "Kingdoms",
+      "thumbnailURL": "http://images6.fanpop.com/image/answers/3388000/3388149_1381889008906.87res_424_300.jpg",
+      "photo": [
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        },
+        {
+          "name": "someName",
+          "photoURL": "someURL"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "galleries": [
+    {
+      "title": "Finn and Jake",
+      "thumbnailUrl": "http://fc03.deviantart.net/fs71/i/2012/130/8/3/finn_and_jake_in_shock_by_roperseid-d4z6yb4.jpg",
+      "photo" :[ {
+        "name": "Photo 1",
+        "photoURL": "http://pre01.deviantart.net/599a/th/pre/f/2014/141/8/7/adventure_time_finn_with_jake_by_kazaret-d5ryw72.jpg",
+
+
+        "photo" : "AlbumPreview",
+        "photoURL": "http://vignette1.wikia.nocookie.net/cartoons/images/7/72/Finn_y_jake.jpg/revision/latest?cb=20120213031219",
+        "photoURL": "http://img12.deviantart.net/724c/i/2013/270/3/9/adventure_time__finn_and_jake_shocked__vector__by_100latino-d6nlq2c.png",
+        "photoURL": "http://pre03.deviantart.net/6b05/th/pre/i/2013/298/a/7/adventure_time_finn_and_jake_prepare_for_the_fight_by_andyeahftw-d6ropcr.png",
+        "photoURL": "http://img12.deviantart.net/14ab/i/2013/306/1/2/adventure_time_finn_and_jake_ballons_fly_by_andyeahftw-d6stzuj.png",
+        "photoURL": "http://img05.deviantart.net/d9c3/i/2013/296/f/b/finn_and_jake__adventure_time__vector_art_by_arelberg-d6rid5e.jpg"
+      },
+      {
+        "name": "Photo 2",
+        "photoURL": "https://unsplash.it/200/300/?random",
+        "photoURL": "",
+        "photoURL": "",
+        "photoURL": "",
+        "photoURL": "",
+        "photoURL": ""
+      },
+      {
+        "name": "Photo 3",
+        "photoURL": "https://unsplash.it/200/300/?random",
+        "photoURL": "",
+        "photoURL": "",
+        "photoURL": "",
+        "photoURL": "",
+        "photoURL": ""
+      }
+    ]
+    },
+    {
+      "title": "Princesses",
+      "thumbnailUrl": "http://images3.wikia.nocookie.net/__cb20120218194104/adventuretimewithfinnandjake/images/b/bc/Adventure-time-princesses-1.jpg",
+      "photoURL": "",
+      "photoURL": "",
+      "photoURL": "",
+      "photoURL": "",
+      "photoURL": "",
+      "photoURL": ""
+    },
+    {
+      "title": "Villains",
+      "thumbnailUrl": "https://farm8.staticflickr.com/7257/8153632535_f9c96f6576_z.jpg"
+    },
+    {
+      "title": "Candy People",
+      "thumbnailUrl": "http://finnadventures.weebly.com/uploads/1/8/6/8/18684638/7183501.jpg?388"
+    },
+    {
+      "title": "Beemo",
+      "thumbnailUrl": "http://vignette1.wikia.nocookie.net/adventuretimewithfinnandjake/images/1/18/S4e14_BMO_with_board.png/revision/latest?cb=20131027193219"
+    },
+    {
+      "title": "Kingdoms",
+      "thumbnailUrl": "http://images6.fanpop.com/image/answers/3388000/3388149_1381889008906.87res_424_300.jpg"
+    }
+  ]
+}
